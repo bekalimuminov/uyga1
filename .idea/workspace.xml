@@ -5,14 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44609afe-2f7f-4c6f-a379-d1b37eeb7d76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/amaliy/amaliy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amaliy/img/Eye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amaliy/img/img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amaliy/img/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amaliy/img/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amaliy/img/rasm1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amaliy/img/rasm2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amaliy/img/rasm3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/2ta__odam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/Facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/Frame 1049 (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/Instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/Italiya.SeriyaA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/Ranaldo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/Skype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/Telegram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/Twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/Vkontakte (VK).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/YouTube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/atleetiko.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/atletico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/benzema.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/bundesliga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/football.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/football__kuk__jamoa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/laliga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/malcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/messi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/murabiy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/nigr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/odam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/rafinnya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/ranolda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/stadion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/univor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionStore/img/vartabon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amaliy/amaliy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amaliy/img/Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amaliy/img/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amaliy/img/img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amaliy/img/img3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amaliy/img/rasm1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amaliy/img/rasm2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amaliy/img/rasm3.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +74,8 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/amaliy/amaliy/img&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/amaliy/FashionStore/img&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -56,6 +86,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\amaliy\FashionStore\img" />
+      <recent name="D:\amaliy" />
+      <recent name="C:\Users\user\Downloads\Telegram Desktop" />
+      <recent name="D:\amaliy\amaliy" />
+      <recent name="D:\amaliy\amaliy\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\amaliy\amaliy\img" />
       <recent name="D:\amaliy\amaliy" />
     </key>
@@ -85,7 +122,14 @@
       <workItem from="1754147898967" duration="16000" />
       <workItem from="1754148691686" duration="85000" />
       <workItem from="1754234663281" duration="74000" />
-      <workItem from="1754299381834" duration="2077000" />
+      <workItem from="1754299381834" duration="2264000" />
+      <workItem from="1754301905244" duration="57000" />
+      <workItem from="1754461334581" duration="33000" />
+      <workItem from="1754479690487" duration="2176000" />
+      <workItem from="1754558044890" duration="2922000" />
+      <workItem from="1754583782666" duration="5474000" />
+      <workItem from="1754592026317" duration="2055000" />
+      <workItem from="1754626980385" duration="5255000" />
     </task>
     <servers />
   </component>
