@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44609afe-2f7f-4c6f-a379-d1b37eeb7d76" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FashionStore/article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/FashionStore/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FashionStore/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FashionStore/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/FashionStore/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +47,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -92,7 +96,11 @@
       <workItem from="1754558044890" duration="2922000" />
       <workItem from="1754583782666" duration="5474000" />
       <workItem from="1754592026317" duration="2055000" />
-      <workItem from="1754626980385" duration="7091000" />
+      <workItem from="1754626980385" duration="7722000" />
+      <workItem from="1754652301786" duration="2067000" />
+      <workItem from="1754757366316" duration="1020000" />
+      <workItem from="1754802716703" duration="7578000" />
+      <workItem from="1754885629655" duration="3882000" />
     </task>
     <servers />
   </component>

@@ -9,7 +9,7 @@
     font-family: "Manrope", sans-serif;
 }
 
-.container {
+.container{
     max-width: 1720px;
     width: 100%;
     margin: 0 auto;
@@ -34,6 +34,7 @@
     display: flex;
     align-items: center;
     flex-wrap: wrap;
+    max-width: 1720px;
 
 }
 
@@ -74,6 +75,7 @@
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     column-gap: 10px;
     row-gap: 40px;
+    max-width: 1720px;
 }
 
 .herro__box__bottom__card__item {
@@ -120,6 +122,7 @@
 .ads {
     margin-top: 110px;
     margin-bottom: 70px;
+
 }
 
 .ads__main__box {
@@ -364,6 +367,7 @@
 .box{
     display: flex;
     gap: 50px;
+    max-width: 1720px;
 }
 .hero__box__card__first__box{
     background-color: #EAEAEA;
@@ -388,38 +392,21 @@
         grid-template-columns: 1fr;
     }
 }
-.footer{
+footer{
     background-color: #469264;
-    padding: 25px 0;
+
+
 }
-.footer__box {
-    align-items: center;
-    color: white;
-    gap: 248px;
-}
-.footer__box__text{
-    display: flex;
-    align-items: center;
-    color: white;
-    gap: 248px;
-}
-.footer__box__text1{
-    display: flex;
-    align-items: center;
-    color: white;
-    gap: 248px;
-    margin-left: 385px;
-    margin-top: 20px;
-}
-.footer__box__img{
-    display: flex;
-    gap: 40px;
-}
-.footer__box__img1{
-    display: flex;
-    gap: 40px;
-    margin-left: 40px;
-}
-.footer__img{
+.article{
     font-size: 50px;
+    font-weight: 700;
+    color: deepskyblue;
+    padding-left: 800px;
 }
+.hr{
+    color: #D2D2D2;
+}
+.article__box{
+    margin-bottom: 500px;
+}
+
